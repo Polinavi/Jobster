@@ -1,6 +1,6 @@
 public class JavMain {
     public static void main(String[] args) {
         System.out.println("Hello Mazafuc");
-        System.out.println("Bl");
+        System.out.println("Blaaa");
     }
 }
